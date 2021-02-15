@@ -27,3 +27,15 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+
+# Colleagues files
+
+# Corentin
+git+https://github.com/corentingaret/test_package
+# Pierre
+git+https://github.com/pierrebrgit/lawagone
+# Arnaud
+git+https://github.com/arnaudrg/ohmypitch
+# Magali
+git+https://github.com/magrousseau/mlproject
