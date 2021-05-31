@@ -1,7 +1,29 @@
-*.egg-info
-.coverage
-.ipynb_checkpoints
+# OS generated files #
+######################
 .DS_Store
-raw_data/
-**/__pycache__/
+*.egg-info
 .env
+*.gz
+*PKG-INFO
+
+# Python #
+__pycache__
+.pytest_cache
+.coverage
+
+# Jupiter Notebook #
+*checkpoint.ipynb
+.ipynb_checkpoints
+
+# IDE #
+.idea
+*.vscode
+
+# file types #
+*.csv
+*.zip
+*.txt
+
+# others #
+notebooks/
+mlruns
