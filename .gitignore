@@ -24,6 +24,9 @@ __pycache__
 *.zip
 *.txt
 
-# others #
+# project directories to be ignored #
 notebooks/
+raw_data/
+
+# others #
 mlruns
